@@ -2,7 +2,7 @@
 
 Advanced data structures for C++.
 
-Make sure you're on the master branch before cloning.
+**Make sure you're on the master branch before cloning.**
 
 ## Introduction
 
@@ -16,6 +16,6 @@ Disclaimer: As the license states, there are no liability and warranty. Use it a
 
 Currently, there are:
 
-- Disjoint set
+- **Disjoint set**
 
 More will be added in advance.
