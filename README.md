@@ -2,6 +2,8 @@
 
 Advanced data structures for C++.
 
+Make sure you're on the master branch before cloning.
+
 ## Introduction
 
 This repository is about advanced data structures that reach more functionalities beyond STL.
