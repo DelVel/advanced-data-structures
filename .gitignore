@@ -6,3 +6,4 @@ advanced-data-structures.vcxproj
 advanced-data-structures.vcxproj.filters
 advanced-data-structures.vcxproj.user
 test_runner.cpp
+.vscode/
