@@ -2,7 +2,7 @@
 
 Advanced data structures for C++.
 
-**Make sure you're on the master branch before cloning.**
+**Make sure you're on the master branch for stability.**
 
 ## Introduction
 
