@@ -17,5 +17,6 @@ Disclaimer: As the license states, there are no liability and warranty. Use it a
 Currently, there are:
 
 - **Disjoint set**
+- **Directed/Undirected graph**
 
 More will be added in advance.
